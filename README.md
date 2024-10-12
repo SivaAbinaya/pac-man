@@ -12,4 +12,5 @@ step2:Click the "Go Live" button.A new browser window will open, displaying pacm
 
 Future Enhancements:
 1)Add scoring and obstacles for increased complexity.
+
 2)Incorporate user controls for interactive gameplay.
